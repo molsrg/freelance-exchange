@@ -2,6 +2,7 @@
 node_modules
 /dist
 
+Screenshots Project
 
 # local env files
 .env.local
