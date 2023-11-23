@@ -10,6 +10,15 @@ I wrote a small application using Vue 3, Vuex, to track tasks on a freelance exc
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue)](https://skillicons.dev)
 
+
+### Screenshots project 
+
+
+![screenshots](https://github.com/molsrg/freelance-exchange/blob/main/ScreenshotsProject/1.png)
+![screenshots](https://github.com/molsrg/freelance-exchange/blob/main/ScreenshotsProject/2.png)
+![screenshots](https://github.com/molsrg/freelance-exchange/blob/main/ScreenshotsProject/3.png)
+
+
 ### Installation
 
 #### Project setup
@@ -32,8 +41,3 @@ npm run build
 npm run lint
 ```
 
-### Screenshots project 
-
-![screenshots]('./../Screenshots%20Project/1.png')
-![screenshots]('./../Screenshots%20Project/2.png')
-![screenshots]('./../Screenshots%20Project/3.png')
